@@ -4,16 +4,11 @@
     padding: 4.8rem 0 9.6rem 0;
 }
 
-.hero {
+/* hero picked by id to override helper rules */
+#hero {
     max-width: 130rem;
-    margin: 0 auto; /* Center someting*/
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 9.6rem;
     align-items: center;
-    padding: 0 3.2rem;
 }
-
 
 
 .hero-description {
