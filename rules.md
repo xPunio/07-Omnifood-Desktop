@@ -7,9 +7,15 @@ Font sizes (px):
 
 Font weights:
 
+ - 400 (default)
+ - 500 (medium)
+ - 600 (semi-bold)
+ - 700 (bold)
 
 Line heights:
- - default : 1
+ - 1 (default)
+ - 1.05
+ - 1.6
 
 
 --- 02 COLORS
@@ -32,6 +38,8 @@ Greys:
 --- 03 SHADOWS
 
 --- 06  BORDER-RADIUS
+
+Default: 9px
 
 --- WHITESPACE
 
