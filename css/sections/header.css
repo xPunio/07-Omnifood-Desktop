@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fdf2e9;
+
+    height: 9.6rem; /* we define height because we want it to be sticky in the future, without it it's better to use padding*/
+
+    padding: 0 4.8rem;
+}
+
+.logo {
+    height: 2.4rem;
+}
